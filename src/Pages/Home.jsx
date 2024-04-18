@@ -91,12 +91,6 @@ const Home = () => {
       </Row>
     </Container>
     </div>
-    <div className="Team">
-    <h2>MEET THE TEAM</h2>
-    </div>
-    <div className="Contact" id="contact">
-      <h2>CONTACT</h2>
-    </div>
     </Hom>
     <Footer/>
     </>
